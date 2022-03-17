@@ -1,0 +1,82 @@
+.image-one{
+   margin-top: 120%;
+   width: 300px;
+   margin-right: 55%;
+   float: right;
+}
+.neymar{
+    margin-top: 5%;
+    /* margin-right: 5%; */
+    width: 100%;
+    margin-left: 5%;
+    margin-top: -15%;
+    background-color: rgb(165, 238, 238);
+
+}
+
+.messi{
+    margin-top: 2%;
+    /* margin-bottom: 60%; */
+    margin-left: 5%;
+    width: 100%;
+    margin-top: 10%;
+    background-color: rgb(165, 238, 238);
+    
+}  
+.Ronaldo{
+   width: 100%;
+   margin-left: 5%;
+   margin-top: 10%;
+   background-color: rgb(165, 238, 238);
+}
+
+.n{
+  padding-top: 10%; 
+}
+
+.m{
+    padding-top: 10%; 
+}
+
+.r{
+    padding-top: 10%; 
+}
+
+.first-para{
+    margin-right: 40%;
+    margin-top: 30%;
+    display: grid;
+}
+.first-part{
+    width: 100%;
+}
+.full{
+    width: 100%;
+    overflow: hidden;
+}
+.football{
+    margin-right: 80%;
+    margin-top: 10%;
+}
+.icons{
+    margin-top: 5%;
+}
+.icon-1{
+    margin-left: -35%;
+}
+.icon-2{
+    margin-right: 2%;
+}
+.icon-3{
+    margin-right: 2%;
+}
+.icon-4{
+    margin-right: 2%;
+}
+.middle-part{
+    margin-right: 40%;
+}
+.last{
+    margin-top: 5%;
+    margin-left: 105px;
+}

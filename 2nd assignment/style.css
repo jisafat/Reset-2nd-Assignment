@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.a{
+    color: white;
+}
+.Neymar{
+  font-size: 30px;
+}
+.Messi{
+    font-size: 30px;
+}
+.ronaldo{
+    font-size: 30px;
+}
+.first-pera{
+    margin-top: 10%;
+    margin-left: 10%; 
+}
+.first-part{
+    display: flex;
+    background-color: rgb(38, 38, 255);
+    padding: 50px;
+    
+}
+.button-one{
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    border: 1px solid black;
+    color: white;
+    background-color: brown;
+    
+}
+button:hover{
+    background-color: black;
+}
+.image-one{
+    margin-top: 15%;
+    margin-left: 40%;
+    margin-bottom: 10%;
+    background-color: rgb(38, 38, 255);
+}
+.n{
+    padding-top: 10%; 
+  }
+  
+  .m{
+      padding-top: 10%; 
+  }
+  
+  .r{
+      padding-top: 10%; 
+  }
+.neymar{
+    margin-left: 15%;
+    border: 5px solid whitesmoke;
+    padding-left: 15px;
+    background-color: rgb(165, 238, 238);
+}
+.messi{
+    
+    margin-left: 02%;
+    /* width: 50%; */
+    border: 5px solid whitesmoke;
+    padding-left: 15px;
+    background-color: rgb(165, 238, 238);
+}
+.Ronaldo{
+    
+    margin-left: 02%;
+    border: 5px solid whitesmoke;
+    padding-left: 15px;
+    background-color: rgb(165, 238, 238);
+}
+.first-para{
+    display: flex;
+    margin-top: 5%;
+}
+.Logo{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.icons{
+    margin-top: 2%;
+    margin-left: 45%;
+}
+.icon-1{
+   margin-left: 10px;
+}
+.icon-2{
+    margin-left: 10px;
+}
+.icon-3{
+    margin-left: 10px;
+}
+.icon-4{
+    margin-left: 10px;
+}
+.last{
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+
